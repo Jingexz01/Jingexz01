@@ -1,6 +1,3 @@
-
-### Hi there 👋
-
 ## Stats
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
